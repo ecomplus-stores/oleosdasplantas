@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/oleosdasplantas",
   "logo": "/img/uploads/images.png",
-  "name": "oleosdasplantas",
-  "short_name": "oleosdasplantas ",
+  "name": "Aroma Brasil",
+  "short_name": "Aroma Brasil",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 10429,
-  "description": "oleosdasplantas",
+  "description": "Aroma Brasil",
   "large_icon": "/img/large-icon.png"
 }
